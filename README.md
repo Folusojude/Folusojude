@@ -16,6 +16,6 @@ Environmental Data Analyst with a focus on Energy and Sustainability
 ![](https://github-profile-trophy.vercel.app/?username=Folusojude&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Folusojude&icon=0&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Folusojude&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
